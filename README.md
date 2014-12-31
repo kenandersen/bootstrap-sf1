@@ -20,7 +20,7 @@ Or you can [download the zip][download].
 
 You will need:
 
-* Git
+* [Git] [Git-download]
 * [Node][node-download]
 * [Bower][bower]
 * [Grunt][grunt]
@@ -51,6 +51,7 @@ This will also start up a local webserver at http://localhost:8000. As you edit 
 
 [sfdc-styles]: http://sfdc-styleguide.herokuapp.com/
 [download]: https://github.com/SalesforceFoundation/bootstrap-sf1/archive/v0.1.0-beta.5.zip
+[git-download]: http://git-scm.com/downloads
 [node-download]: http://nodejs.org/download/
 [grunt]: http://gruntjs.com
 [bower]: http://bower.io
